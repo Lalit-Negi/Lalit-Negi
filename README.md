@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lalit-Negi
 - 👀 I’m interested in Web Development (MERN)
 - 🌱 I’m currently learning more about MERN
-- 💞️ I’m looking fro a job
-- 📫 How to reach me whatsup me on +91 7452011681
+- 💞️ I’m looking for a job
+- 📫 How to reach me -> whatsup or call me on +91 7452011681
 
 // updated at December 27, 2022
 
