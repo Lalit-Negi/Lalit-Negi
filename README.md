@@ -12,7 +12,7 @@
 - 🛠️ **Expertise** in:
   - **Languages**: TypeScript, JavaScript, Python, Go
   - **Frontend**: React.js, Redux, Tailwind CSS
-  - **Backend**: Node.js, Express.js
+  - **Backend**: Node.js, Express.js, fastApi, Flask, Fiber-go
   - **Databases**: MongoDB, PostgreSQL
   - **DevOps & Tools**: Docker, Kubernetes, Redis, Kafka, Git
 - 🌱 Currently diving deeper into **microservices**, **distributed systems**, and **system design**
