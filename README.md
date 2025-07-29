@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lalit Negi
+# 👋 Hi there, I'm Lalit Singh Negi
 
 ### 🚀 Full Stack Developer | Team Lead | MERN Specialist
 
